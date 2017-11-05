@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">CryptoCompare</string>
+    <string-array name="api_calls">
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=NGN&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=USD&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=EUR&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=GBP&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=CNY&amp;tsyms=BTC,ETH"</item>
+
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=JPY&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=CAD&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=CHF&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=INR&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=AUD&amp;tsyms=BTC,ETH"</item>
+
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=RUB&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=MXN&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=ZAR&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=SAR&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=GHS&amp;tsyms=BTC,ETH"</item>
+
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=BRL&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=MYR&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=EGP&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=NZD&amp;tsyms=BTC,ETH"</item>
+        <item>"https://min-api.cryptocompare.com/data/price?fsym=SGD&amp;tsyms=BTC,ETH"</item>
+
+    </string-array>
+
+    <string-array name="currency_pics">
+        <item>"http://c8.alamy.com/comp/J72W9M/sign-of-money-naira-icon-cartoon-style-J72W9M.jpg"</item>
+        <item>"http://www.channelpronetwork.com/sites/default/files/styles/large/public/thumbnails/article//dollarsign0.jpg"</item>
+        <item>"https://us.123rf.com/450wm/benchart/benchart1210/benchart121000001/15542105-illustration-of-a-glossy-3d-golden-euro-currency.jpg"</item>
+        <item>"https://thumb7.shutterstock.com/display_pic_with_logo/279085/610523039/stock-vector-pounds-money-currency-icon-vector-illustration-graphic-design-610523039.jpg"</item>
+        <item>"https://thumb7.shutterstock.com/display_pic_with_logo/1973618/635675255/stock-vector-vector-illustration-golden-sign-of-japanese-yen-or-chinese-yuan-with-two-lines-the-symbol-of-635675255.jpg"</item>
+
+        <item>"https://static7.depositphotos.com/1003549/786/i/950/depositphotos_7866895-stock-photo-yuan-and-yen-currency-symbol.jpg"</item>
+        <item>"https://images.cdn1.stockunlimited.net/illustration/canadian-dollar-currency-symbol_1611895.png"</item>
+        <item>"https://images.cdn2.stockunlimited.net/preview1300/swiss-franc-money-bag_2033992.jpg"</item>
+        <item>"https://image.shutterstock.com/z/stock-photo--d-rendered-isolated-new-indian-rupee-symbol-icon-523825927.jpg"</item>
+        <item>"http://images.stockunlimited.net/preview1300/3d-australia-dollar-currency-symbol_1827787.jpg"</item>
+
+        <item>"https://thumbs.dreamstime.com/z/russian-rouble-golden-symbol-ruble-isolated-white-background-financial-business-investment-concept-35450550.jpg"</item>
+        <item>"https://4.bp.blogspot.com/-ZMKTiMBSil4/WAkGIKiM5II/AAAAAAAAWAs/Wy-pvc60xaIcqIvwqBfTWnSf7xpfOEqJQCLcB/s1600/peso.jpg"</item>
+        <item>"https://cdn.vectorstock.com/i/1000x1000/57/62/golden-symbol-of-south-africa-rand-vector-11435762.jpg"</item>
+        <item>"https://us.123rf.com/450wm/sergeypykhonin/sergeypykhonin1402/sergeypykhonin140200089/25696496-rial-vector-format.jpg"</item>
+        <item>"http://l7.alamy.com/zooms/d11ee00cdf554b4fa9fc183c08a432db/ghanaian-cedi-icon-cartoon-style-j99cc6.jpg"</item>
+
+        <item>"https://image.shutterstock.com/z/stock-photo-brazil-s-economy-concept-with-brazilian-flag-and-real-money-currency-golden-symbol-351211409.jpg"</item>
+        <item>"https://images.cdn4.stockunlimited.net/preview1300/malaysian-ringgit-currency_1821518.jpg"</item>
+        <item>"https://i.pinimg.com/736x/6b/94/70/6b9470520de8c8c35567a856a9e1eb16--egyptian-pound-stamps.jpg"</item>
+        <item>"http://www.channelpronetwork.com/sites/default/files/styles/large/public/thumbnails/article//dollarsign0.jpg"</item>
+        <item>"http://www.channelpronetwork.com/sites/default/files/styles/large/public/thumbnails/article//dollarsign0.jpg"</item>
+    </string-array>
+
+    <string-array name="currency_names">
+        <item>NAIRA</item>
+        <item>US DOLLAR</item>
+        <item>EURO</item>
+        <item>UK POUNDS</item>
+        <item>CHINESE YEN</item>
+
+        <item>JAPANESE YEN</item>
+        <item>CANADIAN DOLLAR</item>
+        <item>SWISS FRANC</item>
+        <item>INDIAN RUPEES</item>
+        <item>AUSTRALIAN DOLLAR</item>
+
+        <item>RUSSIAN RUBBLE</item>
+        <item>MEXICAN PESOS</item>
+        <item>SA RAND</item>
+        <item>SA RIYAL</item>
+        <item>GHANA CEDI</item>
+
+        <item>BRAZILIAN REAL</item>
+        <item>MALAYSIAN RINGGIT</item>
+        <item>EGYPTIAN POUNDS</item>
+        <item>NEW ZEALAND DOLLAR</item>
+        <item>SINGAPORE DOLLAR</item>
+    </string-array>
+
+</resources>
